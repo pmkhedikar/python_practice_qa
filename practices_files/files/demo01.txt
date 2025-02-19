@@ -1,0 +1,3 @@
+First line 
+Second line 
+New line in existing fileNew line in existing fileNew line in existing file
